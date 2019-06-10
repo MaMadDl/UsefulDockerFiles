@@ -1,0 +1,3 @@
+[submodule "MtProxy"]
+	path = MtProxy
+	url = https://github.com/alexdoesh/mtproxy
