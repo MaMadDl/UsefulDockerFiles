@@ -1,3 +1,6 @@
 [submodule "MtProxy"]
 	path = MtProxy
 	url = https://github.com/alexdoesh/mtproxy
+[submodule "Pritunl"]
+	path = Pritunl
+	url = https://github.com/jippi/docker-pritunl
